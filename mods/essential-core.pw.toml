@@ -1,0 +1,13 @@
+name = "Essential Core"
+filename = "EssentialCore-1.21.1-6.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SlFyo0Y2/versions/zkSFZPjq/EssentialCore-1.21.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "3c1eba2fe565b064a1dc1fb49e8a3a8ba3b85c39cfb78c41a7ea99f02cf951f64729d06b283e770738724b54132ff2d1c1890ed315d544ddc35ef4d575902bac"
+
+[update]
+[update.modrinth]
+mod-id = "SlFyo0Y2"
+version = "zkSFZPjq"

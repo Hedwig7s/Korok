@@ -1,0 +1,15 @@
+name = "YUNG's Better Witch Huts (NeoForge) [1.20.4 - 1.21.1 ONLY]"
+side = "server"
+filename = "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+
+[update.curseforge]
+file-id = 5812532
+project-id = 1015144
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "bbf6c91f4a2829c58bc024eaaab821986bc93de6"
+
+[option]
+optional = true

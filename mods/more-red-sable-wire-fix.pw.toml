@@ -1,0 +1,13 @@
+name = "More Red Sable Wire Fix"
+filename = "more_red_sable_wire_fix-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d19a6e6d5e67d7e89c8f030e44cc224d089d3fb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8121784
+project-id = 1549354
