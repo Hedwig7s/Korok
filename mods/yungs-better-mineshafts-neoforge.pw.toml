@@ -11,5 +11,3 @@ mode = "metadata:curseforge"
 hash-format = "sha1"
 hash = "6a14e1d8201f068ca87ef8333e471c5378955906"
 
-[option]
-optional = true
