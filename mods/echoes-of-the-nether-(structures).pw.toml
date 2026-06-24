@@ -1,0 +1,13 @@
+name = "Echoes of the Nether (Structures)"
+filename = "echoes_of_the_nether_structures-1.00.1 Release-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mrqaKR1m/versions/RgCfaxpX/echoes_of_the_nether_structures-1.00.1%20Release-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "28c8edf73852d9558ebd64362632347a79f88a8123fe9d0073d184b054cf3309b5b33497589a10b64577ed1df8c1a2f0ca4d24964e9ed85d31b7e78fefda7441"
+
+[update]
+[update.modrinth]
+mod-id = "mrqaKR1m"
+version = "RgCfaxpX"

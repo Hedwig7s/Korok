@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "index.html"
+hash = "dd8e3bede41fdb974bd4a4383e2a067dc842cb197960c28960a0d0499aeddb9a"
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -53,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib.pw.toml"
 hash = "28c32eb5b2cae73a574951501df136a90e3d43fd664b279d9659e68479b74b18"
+metafile = true
+
+[[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
 metafile = true
 
 [[files]]
@@ -150,11 +159,6 @@ hash = "e5052ab66811e9217d662d712781796c72f7105fbbc81e1de3469ccf6178d5a0"
 metafile = true
 
 [[files]]
-file = "mods/copper-age-backport.pw.toml"
-hash = "e88ee62deb6896aaa3753f3672d8d09fed1c1bf67b87cee0526954d8c467d705"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -176,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
@@ -276,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "8621d1204a1c3a7ba4819f58f6d29398678d94d35946bcd320e98fe572c4124a"
+hash = "6bbbbe5bc08343d11dbf293b87a4ea4118dec77dc035f8fcfb298e34cbb610e6"
 metafile = true
 
 [[files]]
@@ -375,8 +379,8 @@ hash = "bbc82469fa5d17e857ab3e1a1815106a715bfec020a1ec7998cec204b5399242"
 metafile = true
 
 [[files]]
-file = "mods/echoes-of-the-nether-structures.pw.toml"
-hash = "aefb307cb7bcd504ccca29965ff988e3a05193570f141575f57c6cb8d6a4f4b6"
+file = "mods/echoes-of-the-nether-(structures).pw.toml"
+hash = "b8875244ad848a15a920b77ac9be549b7f76d7a1e9af4ec3f983b66d3f57f6d7"
 metafile = true
 
 [[files]]
@@ -396,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
@@ -806,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
