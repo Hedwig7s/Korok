@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
+hash = "6f3b2586044baf55d5b1cb07752c9def847208270480bf9d893c803277493c1f"
 metafile = true
 
 [[files]]
@@ -176,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/cosmeticarmours.pw.toml"
 hash = "ad6f12f31a21e71190e79fce809b64cfbc04e061b50e283326d3c28185817c4f"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
+hash = "16f12fa9a69e00d5e4688d1e7fdf66af3f77e440192f56e7dc23cb1cf1d765fd"
 metafile = true
 
 [[files]]
@@ -215,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cheese.pw.toml"
-hash = "04d423aebbd218e21fd65ae45814fa139530b665d4823eaad4345e58c6133849"
+hash = "b6945f59f87f123909cc548c573b1fa0ee7459b9acedd9643efa7517d6d41336"
 metafile = true
 
 [[files]]
@@ -249,13 +254,8 @@ hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
 metafile = true
 
 [[files]]
-file = "mods/create-factory.pw.toml"
-hash = "81feac4e7db72adbec39b6b5e62fd54ba6bd6b4cbc30cb8761755a81ad6803d3"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "ad89085cff15370c0a8bda81c22a3a040204c71f1ee170a458a949295dc219bf"
+file = "mods/create-mekanism-crafting.pw.toml"
+hash = "cccd540f900002c64f4cd09240362326c1ffde6ce885fff9c58a842c8a187ebc"
 metafile = true
 
 [[files]]
@@ -264,13 +264,8 @@ hash = "e5c71564073063aa8cd45a512f719979939b4ac319370a9a223e2c1c4e846974"
 metafile = true
 
 [[files]]
-file = "mods/create-polyphony.pw.toml"
-hash = "b1100d51c5b58120f96d057cb28754fbab3c6247deb810a53165a3218af4c2aa"
-metafile = true
-
-[[files]]
 file = "mods/create-sky-village.pw.toml"
-hash = "52c16e839d26fb14ae1ceff26d16fd49f42db7658296b43c1161402e545f9cb8"
+hash = "f991818923f40f2cafd7d0a43c224e0b6a83ddbdec9f78d412b1dbeebe2e30c2"
 metafile = true
 
 [[files]]
@@ -280,12 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "bfcb21ad4d084563be44df0b7cd5d1d8dd424ddf1a158ef0950073fe4d7d8643"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
+hash = "4d0aa72ef71c1554ccbfb0df28ab767b351b6999a82b685c34b0eacda349767b"
 metafile = true
 
 [[files]]
@@ -345,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -356,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "183f4532b3c853915ec256a6dd57ef582cb6dd1b08cf593101d99ff6dd75be0b"
-metafile = true
-
-[[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "9a2fc60d3fa012cc5651f1e535670270d4c773712501c6783dee75f83567dfa0"
 metafile = true
 
 [[files]]
@@ -479,11 +464,6 @@ hash = "fa2d61b9c6b4446bbad9767e20bbd43c8c1e25bf0f7ecc9a237bf995456d02f5"
 metafile = true
 
 [[files]]
-file = "mods/goblin-traders.pw.toml"
-hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
@@ -510,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-backups.pw.toml"
-hash = "59c8a44ea4f4b9e7d72b1abbead88e4fd8218eb5d8b8b8300f6e4676df13007e"
+hash = "7950b680ca5841ed1c121196960c6fd92e769f5834534458d6401bb028a85319"
 metafile = true
 
 [[files]]
@@ -589,6 +569,26 @@ hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-curios.pw.toml"
+hash = "3a7ce2df47a9b6c03297457530338541b6b50b10f784cd560172d675ac61fb8e"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-lasers.pw.toml"
+hash = "25df8bca7cd40a31fa6f4600f6f5aa8cd33fe7c7a5bb798f179bc060857a1b25"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "1e7a69de13ee96b512350358c746a7b3bf67b07bc532fe5b26f7b3b3f7ee8117"
 metafile = true
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
@@ -659,18 +659,13 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/neapolitan.pw.toml"
-hash = "55ff0b12591e858a83633b5dc788464c908375a79e4043ac11b3518a776cc358"
-metafile = true
-
-[[files]]
 file = "mods/netherex.pw.toml"
 hash = "353e95c0412e5877b35eec6ebd071cf2197284fb691c00c112c604afc01ae8b2"
 metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+hash = "6f3df134c78b1446b01a369eccc0a8dde11f5debec853dfec334b7fb4beb5026"
 metafile = true
 
 [[files]]
@@ -865,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "bead0db6ef01cb4db9e957383b9099420ee65925c05a6adbf3beb937d5e66fa1"
+hash = "d8c155733358fc2d5b16c59748808df53f39315886db1f975e90f00b1a9ee3fe"
 metafile = true
 
 [[files]]
@@ -909,11 +904,6 @@ hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
-metafile = true
-
-[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "5cfe1c2e3765904af94d02c403a6ddce1f59354adb25aa7267af681ead5798b1"
 metafile = true
@@ -931,16 +921,6 @@ metafile = true
 [[files]]
 file = "mods/trimmed.pw.toml"
 hash = "d6ae00c55e626309082cfbd38e84c48d43d7bd0ad36b1190354755f79a322db5"
-metafile = true
-
-[[files]]
-file = "mods/twilights-flavors-delight.pw.toml"
-hash = "24f7c7e71dfc654dfa73999e236955f03cfef2ef7a3851b9fff7981995ba7331"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
@@ -1031,11 +1011,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "3682a4794a34f3004df81c63839bda0273ec58121c1c78ded3f600f70d28bab5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-diesel-generators-tfmg-style.pw.toml"
-hash = "dea1d44fc7ad4d15dcb376365d731aa41f5cb1e6a85dd522e619b975610f5911"
 metafile = true
 
 [[files]]
