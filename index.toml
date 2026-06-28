@@ -159,11 +159,6 @@ hash = "e5052ab66811e9217d662d712781796c72f7105fbbc81e1de3469ccf6178d5a0"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
-metafile = true
-
-[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "073c8410430fa1f84f4b8926ea37ce5bdcf2df764c25f44331978171311da9f2"
 metafile = true
@@ -290,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-perspective.pw.toml"
-hash = "cd53d66e8a7f112f160f98f56c9a05882c20a3cd45460c0d6149c19db377251e"
+hash = "eb56d3c84b62fc2f080730464798f0c027f22e99b790a3d3c5a3cdf88d7e4d8c"
 metafile = true
 
 [[files]]
