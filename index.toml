@@ -249,6 +249,11 @@ hash = "040e5ed9eafedf380f2dcf058efd2cc2a15d5cdfe29a49b7ef41b21c6d935f75"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
+metafile = true
+
+[[files]]
 file = "mods/create-mekanism-crafting.pw.toml"
 hash = "cccd540f900002c64f4cd09240362326c1ffde6ce885fff9c58a842c8a187ebc"
 metafile = true
