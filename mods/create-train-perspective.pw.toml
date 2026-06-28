@@ -1,6 +1,6 @@
 name = "Create: Train Perspective"
 filename = "create_train_perspective-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
